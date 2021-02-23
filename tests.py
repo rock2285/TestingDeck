@@ -9,8 +9,6 @@ class CardGetSuite(unittest.TestCase):
   pass
 class CardGetRank(unittest.TestCase):
   pass
-class CardGetValue(unittest.TestCase):
-  pass
 class CardStr(unittest.TestCase):
   pass
 
