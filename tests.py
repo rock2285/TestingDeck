@@ -1,6 +1,7 @@
 import unittest
 
-#xxx
+#this isn't in the master
+
 #Card tests
 class CardInitCorrectRankAndSuit(unittest.TestCase):
   pass
