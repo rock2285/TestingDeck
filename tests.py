@@ -44,7 +44,7 @@ class CardInitRaiseValueError(unittest.TestCase):
     with self.assertRaises(ValueError):
       card.Card(1, "5")
 
-class CardGetSuite(unittest.TestCase):
+class CardGetSuit(unittest.TestCase):
   def test_get_suit(self):
     c1 = card.Card(1, 5)
     self.assertEqual(c1.getSuit(), 1)
